@@ -1,2 +1,1 @@
-# CodeClause
-Data Science Internship Task
+CodeClauseInternship_Analyze sentiment in movie reviews
