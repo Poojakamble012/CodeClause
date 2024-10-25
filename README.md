@@ -1,1 +1,1 @@
-CodeClauseInternship_Analyze sentiment in movie reviews
+Data Science Internship Project
